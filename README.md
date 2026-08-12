@@ -1,6 +1,6 @@
-# 数学学习笔记
+# Obsidian 学习笔记
 
-个人数学学习笔记，基于 [Obsidian](https://obsidian.md) 维护，按学科与主题分目录组织。
+个人学习笔记，基于 [Obsidian](https://obsidian.md) 维护，Markdown 编写，按学科与主题分目录组织，内容持续完善中。
 
 ## 结构说明
 
