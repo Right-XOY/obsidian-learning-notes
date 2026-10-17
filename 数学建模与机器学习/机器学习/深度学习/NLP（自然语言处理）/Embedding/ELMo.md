@@ -1,6 +1,6 @@
 （Embedding from Language Models）
 
-不止训练一个 Q 矩阵，还加入了上下文信息（用双向 [[LSTM]]，左右 LSTM 获取上下文信息）
+不止训练一个 Q 矩阵，还加入了上下文信息（用双向 [[LSTM（长短期记忆网络）]]，左右 LSTM 获取上下文信息）
 
 ![[Pasted image 20260917203952.png]]
 
